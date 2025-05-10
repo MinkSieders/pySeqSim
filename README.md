@@ -38,7 +38,6 @@ Generates a distance matrix from sequences or loads a previous checkpoint.
 ```bash
 python pySeqSim.py SSM -i example.fasta --metric Alignment --threads 4
 
-
 ---
 
 ## Usage | SSN-X
